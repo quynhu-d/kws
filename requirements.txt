@@ -1,0 +1,8 @@
+matplotlib
+pandas
+seaborn
+torch
+torchaudio==0.9.1
+tqdm
+thop
+IPython
